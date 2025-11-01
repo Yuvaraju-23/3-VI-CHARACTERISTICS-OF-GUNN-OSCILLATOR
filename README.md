@@ -69,3 +69,5 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **Result:**
 
+The I–V characteristics of the Gunn diode were successfully plotted, showing a clear negative resistance region. The modulation depth of the PIN diode was determined from VSWR readings, confirming effective amplitude modulation
+
